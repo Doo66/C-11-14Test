@@ -1,0 +1,5 @@
+double vec.
+5
+sizeof:0
+sizeof:1
+sizeof:2
