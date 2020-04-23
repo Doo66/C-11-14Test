@@ -1,0 +1,2 @@
+Enter a number:15
+15 fibonacci val is 610

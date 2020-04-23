@@ -1,0 +1,3 @@
+NULL == 0
+call foo(int)
+call foo(char*)
