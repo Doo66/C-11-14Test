@@ -1,0 +1,8 @@
+1
+2
+1
+2
+defalut() val:0
+user val:3
+= val:3
+() val:3
