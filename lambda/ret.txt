@@ -1,0 +1,11 @@
+value_1 = 100
+stored_value_1 = 1
+value_1 address :0x7fffc36d42ec
+stored_value_1 address :0x7fffc36d42f4
+value_2 = 100
+stored_value_2 = 100
+value_2 address :0x7fffc36d42e8
+stored_value_2 address :0x7fffc36d42ec
+add(3,4) = 9
+generic(1,2) = 3
+generic(1.1,2.2) = 3.3
