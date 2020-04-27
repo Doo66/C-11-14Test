@@ -1,0 +1,7 @@
+Foo::Foo
+Foo::foo
+fun(const Foo&)
+Foo::foo
+p2 被销毁
+Foo::foo
+Foo::~Foo

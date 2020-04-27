@@ -1,0 +1,12 @@
+11
+pointer.use_count() = 3
+pointer2.use_count() = 3
+pointer3.use_count() = 3
+reset pointer2:
+pointer.use_count() = 2
+pointer2.use_count() = 0
+pointer3.use_count() = 2
+reset pointer3:
+pointer.use_count() = 1
+pointer2.use_count() = 0
+pointer3.use_count() = 0
