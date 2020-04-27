@@ -1,0 +1,23 @@
+rv1 = string,
+lv2 = string,string,
+rv2 = string,string,string,string
+&& rv1:右值
+rv1:左值
+rv2:左值
+构造0x7fffcc4d0eb0
+构造0x7fffcc4d0ed0
+移动0x7fffcc4d0ed0
+析构0
+析构0x7fffcc4d0eb0
+obj:
+0x7fffcc4d0ed0
+1
+传递右值:
+普通传参:左值引用
+move 传参:右值引用
+forward 传参:右值引用
+传递左值:
+普通传参:左值引用
+move 传参:右值引用
+forward 传参:左值引用
+析构0x7fffcc4d0ed0
