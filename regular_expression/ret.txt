@@ -1,0 +1,9 @@
+foo.txt:1
+bar.txt:1
+test:0
+a0.txt:0
+AAA.txt:0
+sub-match[0]: foo.txt
+foo.txt sub-match[1]: foo
+sub-match[0]: bar.txt
+bar.txt sub-match[1]: bar
