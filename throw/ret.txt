@@ -1,0 +1,6 @@
+may_throw() noexcept ?false
+no_throw() noexcept ?true
+lmay_throw() noexcept ?false
+lno_throw() noexcept ?true
+捕获异常,来自 may_throw()
+捕获异常,来自 non_block_throw()
