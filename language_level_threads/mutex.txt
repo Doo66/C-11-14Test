@@ -1,12 +1,18 @@
 Waiting...Done!
 Result is 7
 producing 0
+produser 1
 consuming0
 producing 1
+produser 1
 consuming1
 producing 2
+produser 1
 consuming2
 producing 3
+produser 1
 consuming3
 producing 4
+produser 1
+produser 2
 consuming4

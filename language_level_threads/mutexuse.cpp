@@ -69,9 +69,12 @@ int main()
             notified = true;
             // 通知一个线程
             cond_var.notify_one();
+
+            std::cout << "produser 1" << std::endl;
         }
         done = true;
         cond_var.notify_one();
+        std::cout << "produser 2" << std::endl;
     });
 
     // 消费者线程
